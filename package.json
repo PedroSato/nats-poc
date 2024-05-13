@@ -1,4 +1,8 @@
 {
   "name": "nats",
-  "packageManager": "yarn@4.1.1"
+  "type": "module",
+  "packageManager": "yarn@4.1.1",
+  "dependencies": {
+    "nats": "^2.25.0"
+  }
 }
